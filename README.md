@@ -1,4 +1,4 @@
-# ObjOrDesign
+# OODesign
 * Object Oriented Design - Coursera
 1. Optional UML diagrams 
 2. Assignments UML diagrams 
